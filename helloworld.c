@@ -3,6 +3,6 @@
 int main(void)
 {
 	printf("Hello World!!");
-        printf("Test");
+        printf("Build Test");
 	return 0;
 }
