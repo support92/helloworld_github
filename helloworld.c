@@ -1,5 +1,5 @@
 #include <stdio.h>
-1111111111111111111111
+1
 int main(void)
 {
 	printf("Hello World!!");
